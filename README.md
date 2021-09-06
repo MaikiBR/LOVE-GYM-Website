@@ -1,1 +1,1 @@
-# W-GYM-Website-Full-Stack-Web-Dev-
+# W-GYM-Website-HTML & CSS-Web-Dev-
