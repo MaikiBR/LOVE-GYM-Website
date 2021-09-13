@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.top-banner {
+    background: #461E52;
+    width: 1325px;
+    height: 300px;
+    overflow: auto;
+}
+#top-banner {
+    display: table;
+}
+.logo {
+    width: 755px;
+    height: 243px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+#top-banner .logo-container {
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
+#container .image-container img {
+    max-width: 755px;
+    max-height: 243px;        
+}
+.menu-banner {
+    background: #5D306A;
+    width: 1325px;
+    height: 85px;
+}
+#menu-banner {
+    padding: 0px 10px;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
+input[type=button] {
+    background-color: #5D306A;
+    border: none;
+    color: #DD517E;
+    font-family: sansation;
+    font-size: 40px;
+    padding: 0px 80px;
+    text-decoration: none;
+    cursor: pointer;
+}
+input[type=button]:hover {
+    color: #FF9494;
+}
+
+#main-page {
+    overflow-y: scroll
+}
