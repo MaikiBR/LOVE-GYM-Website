@@ -1,1 +1,1 @@
-# LOVE-GYM-Website-HTML & CSS-Web-Dev-
+# LOVE-GYM-Website-HTML, CSS & Javascript-Web-Dev-
